@@ -1,0 +1,71 @@
+{
+  "played": [
+    {
+      "title": "Elden Ring",
+      "rating": 9,
+      "hours": 120,
+      "genre": "Action RPG",
+      "year": 2022,
+      "cover": "images/elden-ring.webp"
+    }
+  ],
+
+  "backlog": [
+    {
+      "title": "PEAK",
+      "priority": "medium",
+      "genre": "Extraction Shooter",
+      "year": 2025,
+      "cover": "images/peak.webp"
+    },
+    {
+      "title": "Dying Light 2 - Stay Human",
+      "priority": "medium",
+      "genre": "Action Survival",
+      "year": 2022,
+      "cover": "images/dying-light-2.webp"
+    },
+    {
+      "title": "Elden Ring Nightreign",
+      "priority": "high",
+      "genre": "Action RPG",
+      "year": 2025,
+      "cover": "images/elden-ring-nightreign.webp"
+    },
+    {
+      "title": "Split Fiction",
+      "priority": "high",
+      "genre": "Action Adventure",
+      "year": 2025,
+      "cover": "images/split-fiction.webp"
+    },
+    {
+      "title": "Portal 2",
+      "priority": "medium",
+      "genre": "Puzzle",
+      "year": 2011,
+      "cover": "images/portal-2.webp"
+    },
+    {
+      "title": "It Takes Two",
+      "priority": "high",
+      "genre": "Co-op Adventure",
+      "year": 2021,
+      "cover": "images/it-takes-two.webp"
+    },
+    {
+      "title": "Dead Island 2",
+      "priority": "medium",
+      "genre": "Action RPG",
+      "year": 2023,
+      "cover": "images/dead-island-2.webp"
+    },
+    {
+      "title": "Remnant II",
+      "priority": "medium",
+      "genre": "Action Shooter",
+      "year": 2023,
+      "cover": "images/remnant-ii.webp"
+    }
+  ]
+}
