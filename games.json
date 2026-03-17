@@ -1,12 +1,28 @@
 {
   "played": [
     {
+      "title": "Clair Obscure",
+      "rating": 7,
+      "hours": 80,
+      "genre": "Adventure RPG",
+      "year": 2025,
+      "cover": "images/clair-obscure.webp"
+    },
+    {
       "title": "Elden Ring",
       "rating": 9,
-      "hours": 120,
-      "genre": "Action RPG",
+      "hours": 334.7,
+      "genre": "Adventure RPG",
       "year": 2022,
       "cover": "images/elden-ring.webp"
+    },
+    {
+      "title": "Dark Souls III",
+      "rating": 7,
+      "hours": 334.7,
+      "genre": "Adventure RPG",
+      "year": 2016,
+      "cover": "images/dark-souls-iii.webp"
     }
   ],
 
