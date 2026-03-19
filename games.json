@@ -27,7 +27,7 @@
     {
       "title": "Dark Souls III",
       "rating": 7,
-      "hours": 334.7,
+      "hours": 327.6,
       "genre": "Adventure RPG",
       "year": 2016,
       "cover": "images/dark-souls-iii.webp"
@@ -89,7 +89,7 @@
       "priority": "medium",
       "genre": "Action Shooter",
       "year": 2023,
-      "cover": "images/remnant-ii.webp"
+      "cover": "images/remnant-II.webp"
     }
   ]
 }
