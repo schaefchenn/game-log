@@ -1,6 +1,14 @@
 {
   "played": [
     {
+      "title": "Resident Evil Requiem",
+      "rating": 8,
+      "hours": 12,
+      "genre": "Puzzle Horror Shooter",
+      "year": 2026,
+      "cover": "images/resident-evil-requiem.webp"
+    },
+    {
       "title": "Clair Obscure",
       "rating": 7,
       "hours": 80,
